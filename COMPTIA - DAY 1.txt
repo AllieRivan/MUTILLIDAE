@@ -1,0 +1,98 @@
+SECplus day 1 
+
+HOW TO TEACH KALI EFFECTIVELY 
+great instructors secret:
+
+"everything starts with "why" 
+fave thought: "ano mapapala ko jan?" 
+
+goal: captivate: mabaliw sa class
+ - money upgrade 
+ - family upgrade
+ - career upgrade
+ - salary upgrade
+
+---------- 
+
+VMWARE 
+
+OPEN PENTESTVM 
+
+un: kali
+pass: kali
+
+home folder 
+create folder 
+paste pictures 
+
+ip addr 
+
+@CMD 
+PING THE IP
+
+----------
+
+VS code 
+
+open folder 
+make file .py 
+install python (py -m pip)
+upgrade pip (py -m pip install --upgrade pip)
+install fernet (py -m pip install fernet)
+
+-----------
+secure crt 
+
+ssh2 
+192.168.108.162 
+
+------------ 
+
+1. ENCRYPT VIA KALI 
+
+- git hub https://github.com/rivancorp/pythonSEC 
+   open: 
+      
+
+
+
+2. DECRYPT 
+----------- 
+SQL INJECTION
+
+@secure crt 
+
+ls 
+cd ..
+cd mutillidae
+ls
+cd src
+ls
+cd /opt/lampp
+sudo ./lampp start
+ip addr 
+
+-------------- 
+kali vmware 
+
+browser 
+
+127.0.0.1/mutillidae/src/index.php
+
+--------------
+labs pc brwoser 
+
+http:192.168.108.162/mutillidae/src/index.php?page=user-info.php
+
+OWASP 2017 
+A1 -Injection - SQLi - extract data - user 
+
+un: ' OR 1=1 -- -
+
+--------------
+
+update netmiko 
+
+py -m pip install netmiko 
+
+py -m pip install --upgrade pip 
